@@ -1,11 +1,11 @@
 # CCU_OOP_2022
 The additional assignment of the object-oriented programming course in National Chung Cheng University, 2022.
 
-#Problem completed: 22
+#Problem completed: 26
 
 ## Chinese Problem Set
 ### Mathematics
-Total: 20 problems completed
+Total: 21 problems completed
 1. C_MM01: trapezoid area
 2. C_MM02: triangle area
 3. C_MM03: sum of 2 numbers
@@ -26,8 +26,18 @@ Total: 20 problems completed
 18. C_MM18: decimal to binary
 19. C_MM19: telephone fee
 20. C_MM20: decimal to hexadecimal
+21. C_MM21: factorial
+
+### Sorting
+Total: 1 problem completed
+1. C_SO52: bubble sort
 
 ## English Problem Set
+### Array
+Total: 2 problems completed
+1. AR12: Counting Numbers
+2. AR23: an easy encoder
+
 ### Mathematics
 Total: 1 problems completed
 1. MM59: majority value
